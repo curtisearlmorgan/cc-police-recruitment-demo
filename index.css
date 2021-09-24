@@ -75,7 +75,6 @@ label, textarea{
 }
 
 p{
-/*     margin: 0 10px 0 0;
-    padding: 0; */
-    border: dashed red;
+    margin: 0; !important;
+/*     padding: 0; */
 }
