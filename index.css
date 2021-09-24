@@ -73,3 +73,7 @@ h4{
 label, textarea{
     vertical-align: middle;
 }
+
+span{
+    padding-right:20px;
+}
