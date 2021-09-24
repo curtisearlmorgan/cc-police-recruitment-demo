@@ -74,7 +74,6 @@ label, textarea{
     vertical-align: middle;
 }
 
-p{
-    margin: 0px; !important;
-/*     padding: 0; */
+.trans{
+   transform: translateY(-20px); 
 }
